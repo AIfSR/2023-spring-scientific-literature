@@ -1,0 +1,341 @@
+[{
+  "caption": "Fig. 3. PJM fast frequency regulation signal for 2 hours [20].",
+  "captionBoundary": {
+    "x1": 72.0,
+    "x2": 276.5525207519531,
+    "y1": 209.95408630371094,
+    "y2": 213.719970703125
+  },
+  "figType": "Figure",
+  "imageText": ["6", "Time", "(s)", "0", "1200", "2400", "3600", "4800", "6000", "7200", "F", "re", "qu", "en", "cy", "r", "eg", "ul", "at", "io", "n", "si", "gn", "al", "-1", "-0.8", "-0.6", "-0.4", "-0.2", "0", "0.2", "0.4", "0.6", "0.8", "1"],
+  "name": "3",
+  "page": 5,
+  "regionBoundary": {
+    "x1": 218.4,
+    "x2": 540.48,
+    "y1": 31.68,
+    "y2": 186.72
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-Figure3-1.png"
+}, {
+  "caption": "Fig. 6. Electricity bills for a narrow peak (base load 0.5 MW, peak load 1MW, peak duration 3 minutes). Labels: In subfigures (a), (b), (c), the upper plot is power consumption; the lower plot is battery SoC curve. Blue solid line is the original load; red dotted dash line denotes demand+frequency regulation signal; green dashed line is the actual net consumption. Fig. d are normalized bills where the original bill is set to 1.",
+  "captionBoundary": {
+    "x1": 71.99899291992188,
+    "x2": 539.9527587890625,
+    "y1": 621.19384765625,
+    "y2": 665.2799072265625
+  },
+  "figType": "Figure",
+  "imageText": ["(d)", "Bills", "comparison", "Peak", "shaving", "JointOriginal", "Freq.", "regulation", "1", "0.9", "0.8", "0.7", "0.6", "0.5", "0.4", "0.3", "0.2", "0.1", "0", "b", "ill", "iz", "ed", "m", "al", "N", "or", "(c)", "Joint", "optimization", "0.8", "0.6", "0.4", "0.2", ")", "(", "%", "S", "oC", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600", "1.5", "1", "0.5", "0", ")", "M", "W", "er", "(", "P", "ow", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600", "(b)", "Peak", "shaving", "only", "0.8", "(", "%", ")", "0.2", "0.4", "0.6", "S", "oC", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600", "1", "0.8", "0.6", "0.4", ")", "M", "W", "er", "(", "P", "ow", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600", "(a)", "Frequency", "regulation", "only", "0.8", "0.6", "0.4", "0.2", ")", "(", "%", "S", "oC", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600", "1.5", "1", "0.5", "0", ")", "M", "W", "er", "(", "P", "ow", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600"],
+  "name": "6",
+  "page": 14,
+  "regionBoundary": {
+    "x1": 75.36,
+    "x2": 528.48,
+    "y1": 144.96,
+    "y2": 608.16
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-Figure6-1.png"
+}, {
+  "caption": "Fig. 12. Selected frequency regulation signal scenarios. r1, r2, r3, r4 are the top four representative frequency regulation signal scenarios.",
+  "captionBoundary": {
+    "x1": 72.0,
+    "x2": 526.2724609375,
+    "y1": 461.8341369628906,
+    "y2": 465.6000061035156
+  },
+  "figType": "Figure",
+  "imageText": ["0.8", "1", "r1", "r2", "r3", "r4", "0.6", "0.4", "0.2", "0", "-0.2", "-0.4", "-0.6", "-0.8", "al", "ig", "n", "n", "S", "ti", "o", "u", "la", "R", "eg", "Time(Minutes)", "0", "2", "4", "6", "8", "10", "12", "14", "16", "18", "20", "22", "24", "26", "28", "30", "32"],
+  "name": "12",
+  "page": 20,
+  "regionBoundary": {
+    "x1": 202.07999999999998,
+    "x2": 401.28,
+    "y1": 290.4,
+    "y2": 433.91999999999996
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-Figure12-1.png"
+}, {
+  "caption": "Fig. 11. Load prediction for data center demand, the black curve is the actual demand, and the red line are the day ahead load prediction using MLR. The load is scaled between 0 and 1MW.",
+  "captionBoundary": {
+    "x1": 72.0,
+    "x2": 539.9041137695312,
+    "y1": 244.51414489746094,
+    "y2": 261.7198486328125
+  },
+  "figType": "Figure",
+  "imageText": ["0.88", "0.9", "pred", "test", "0.86", "0.84", "0.82", "0.8", "0.78", "0.76", "W", ")", "(", "M", "Lo", "ad", "time[h]", "0", "2", "4", "6", "8", "10", "12", "14", "16", "18", "20", "22", "24"],
+  "name": "11",
+  "page": 20,
+  "regionBoundary": {
+    "x1": 193.92,
+    "x2": 406.56,
+    "y1": 74.39999999999999,
+    "y2": 221.28
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-Figure11-1.png"
+}, {
+  "caption": "Fig. 1. Annual electricity bill savings for a 1MW data center (in PJM control area, total bill of $488,370) under different battery usage scenarios. Savings from the joint optimization framework proposed in this paper is larger than the sum of savings from frequency regulation service and peak shaving.",
+  "captionBoundary": {
+    "x1": 72.0,
+    "x2": 539.9060668945312,
+    "y1": 318.1941223144531,
+    "y2": 348.8399658203125
+  },
+  "figType": "Figure",
+  "imageText": ["8E7@>F6781&", "9.6:&;<6=>14&", "?0@&8A&B8C<&", "D8>1C&", ",-./0.123&", "-.4056781&&", ")+#+++&", "*+#+++&", "\"+#+++&", "!+#+++&", "(+#+++&", "$+#+++&", "+&", "*(#(%(&", "\"$#*$\"&", "'#!()&", "2", "!\"#$%%&"],
+  "name": "1",
+  "page": 1,
+  "regionBoundary": {
+    "x1": 117.6,
+    "x2": 540.48,
+    "y1": 31.68,
+    "y2": 296.15999999999997
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-Figure1-1.png"
+}, {
+  "caption": "Fig. 4. LMO battery cycle life curve VS. Cycle numbers",
+  "captionBoundary": {
+    "x1": 72.0,
+    "x2": 261.3402404785156,
+    "y1": 205.3940887451172,
+    "y2": 209.15997314453125
+  },
+  "figType": "Figure",
+  "imageText": ["Experimental", "data", "fitted", "Experimental", "data", "not", "fitted", "Fitting", "curve", "]", "×10", "-4", "[", "%", "c", "y", "c", "le", "e", "r", "L", "if", "e", "l", "o", "s", "s", "p", "2", "1", "0", "Cycle", "depth", "of", "discharge", "[%]", "7", "0", "10", "20", "30", "40", "50", "60", "70", "80", "90", "100"],
+  "name": "4",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 199.2,
+    "x2": 540.48,
+    "y1": 31.68,
+    "y2": 181.44
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-Figure4-1.png"
+}, {
+  "caption": "TABLE I ONE DAY ELECTRICITY BILL FOR MICROSOFT DATA CENTER UNDER FOUR SCENARIOS: ORIGINAL BILL, BILLS AFTER PROVIDING FREQUENCY REGULATION SERVICE, PEAK SHAVING, AND JOINT OPTIMIZATION. BILL SAVINGS AND SAVING RATIOS ARE BOLDED.",
+  "captionBoundary": {
+    "x1": 86.63922119140625,
+    "x2": 525.665283203125,
+    "y1": 71.71428680419922,
+    "y2": 102.36016845703125
+  },
+  "figType": "Table",
+  "imageText": ["Joint", "optimization", "1194.5", "151.2", "(11.24%)", "884.2", "465.8", "117.2", "272.7", "Peak", "shaving", "1331.9", "23.8", "(1.76%)", "884.2", "424.8", "12.9", "0", "Frequency", "regulation", "1254.6", "91.1", "(6.77", "%)", "884.2", "528.7", "123.1", "301.4", "Original", "1345.7", "0", "884.2", "461.5", "0", "0", "Total", "bill", "($)", "Bill", "saving", "($)", "Energy", "charge", "($)", "Peak", "charge", "($)", "Battery", "cost", "($)", "Regulation", "rev", "($)"],
+  "name": "I",
+  "page": 9,
+  "regionBoundary": {
+    "x1": 72.0,
+    "x2": 540.0,
+    "y1": 118.56,
+    "y2": 227.04
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-TableI-1.png"
+}, {
+  "caption": "Fig. 5. Work flow of the proposed battery control method. We use load prediction and scenario reduction to solve the day-ahead stochastic optimization problem. Then we feed in the capacity bidding and peak threshold for real-time control.",
+  "captionBoundary": {
+    "x1": 72.0,
+    "x2": 539.6989135742188,
+    "y1": 395.47412109375,
+    "y2": 412.68017578125
+  },
+  "figType": "Figure",
+  "imageText": ["capacity", "bidding", "+", "peak", "threshold", "real", "time", "battery", "control", "(Algorithm", "1)", "day", "ahead", "stochastic", "joint", "optimization", "load", "prediction", "scenario", "reduction"],
+  "name": "5",
+  "page": 9,
+  "regionBoundary": {
+    "x1": 217.92,
+    "x2": 394.08,
+    "y1": 246.72,
+    "y2": 371.03999999999996
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-Figure5-1.png"
+}, {
+  "caption": "TABLE III COMPARISON BETWEEN DIFFERENT PORTIONS OF BATTERY ENERGY CAPACITY USED FOR JOINT OPTIMIZATION.",
+  "captionBoundary": {
+    "x1": 117.0,
+    "x2": 495.7876892089844,
+    "y1": 71.71428680419922,
+    "y2": 88.91998291015625
+  },
+  "figType": "Table",
+  "imageText": ["10", "minutes", "$105,140", "0.86", "5", "minutes", "$80,547", "1.34", "3", "minutes", "$52,282", "3.58", "Joint", "optimization", "capacity", "Annual", "bill", "saving", "Life", "expectancy", "(Year)"],
+  "name": "III",
+  "page": 13,
+  "regionBoundary": {
+    "x1": 174.72,
+    "x2": 434.4,
+    "y1": 103.67999999999999,
+    "y2": 192.0
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-TableIII-1.png"
+}, {
+  "caption": "Fig. 8. Cumulative distribution of peak duration for two case studies.",
+  "captionBoundary": {
+    "x1": 72.0,
+    "x2": 301.87249755859375,
+    "y1": 265.15423583984375,
+    "y2": 268.92010498046875
+  },
+  "figType": "Figure",
+  "imageText": ["(b)", "UW", "EE", "&", "CSE", "building", "1", "0.8", "0.6", "0.4", "0.2", "0", "n", "at", "io", "f", "d", "ur", "F", "o", "C", "D", "Duration", "(h)", "0", "3", "6", "9", "12", "15", "(a)", "Microsoft", "data", "center", "1", "0.8", "0.6", "0.4", "0.2", "0", "n", "at", "io", "f", "d", "ur", "F", "o", "C", "D", "Duration", "(h)", "0", "3", "6", "9", "12", "15"],
+  "name": "8",
+  "page": 17,
+  "regionBoundary": {
+    "x1": 75.36,
+    "x2": 526.56,
+    "y1": 84.0,
+    "y2": 252.0
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-Figure8-1.png"
+}, {
+  "caption": "Fig. 2. Example day load of Microsoft data center and UW EE & CSE building. Both loads are normalized with respect to their rated power.",
+  "captionBoundary": {
+    "x1": 72.0,
+    "x2": 539.833740234375,
+    "y1": 232.6342010498047,
+    "y2": 236.40008544921875
+  },
+  "figType": "Figure",
+  "imageText": ["(b)", "UW", "EE", "&", "CSE", "building", "0.71", "0.68", "0.65", "0.62", "0.59", "0.56", "0.53", "0.5", "W", ")", "(", "M", "lo", "ad", "iz", "ed", "rm", "al", "N", "o", "Time", "of", "the", "day", "(h)", "0", "4", "8", "12", "16", "20", "24", "(a)", "Microsoft", "data", "center", "4", "Time", "of", "the", "day", "(h)", "0", "4", "8", "12", "16", "20", "24", "N", "o", "rm", "al", "iz", "ed", "lo", "ad", "(", "M", "W", ")", "0.74", "0.75", "0.76", "0.77", "0.78", "0.79", "0.8", "0.81", "0.82", "0.83", "0.84"],
+  "name": "2",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 120.47999999999999,
+    "x2": 540.48,
+    "y1": 31.68,
+    "y2": 219.35999999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-Figure2-1.png"
+}, {
+  "caption": "Fig. 9. Synthetic frequency regulation signal (on the top) and rectangle peak (bottom) used for sensitivity analysis.",
+  "captionBoundary": {
+    "x1": 72.0,
+    "x2": 451.8721923828125,
+    "y1": 300.79412841796875,
+    "y2": 304.55999755859375
+  },
+  "figType": "Figure",
+  "imageText": ["1", "0.9", "0.8", "0.7", "0.6", "0.5", "W", ")", "(", "M", "Lo", "ad", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600", "1", "0.5", "0", "-0.5", "-1", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600"],
+  "name": "9",
+  "page": 18,
+  "regionBoundary": {
+    "x1": 178.56,
+    "x2": 429.12,
+    "y1": 79.2,
+    "y2": 272.15999999999997
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-Figure9-1.png"
+}, {
+  "caption": "Fig. 10. Superlinear gain probability V.S. price coefficients",
+  "captionBoundary": {
+    "x1": 71.99990844726562,
+    "x2": 267.46026611328125,
+    "y1": 507.07403564453125,
+    "y2": 510.83990478515625
+  },
+  "figType": "Figure",
+  "imageText": ["(b)", "Probability", "of", "superlinear", "gain", "V.S.", "battery", "cell", "price", "λcell($/Wh)", "and", "regulation", "capacity", "payment", "λc($/MWh)", "1", "0.9", "0.8", "0.7", "0.6", "0.5", "0.4", "lit", "y", "1", "ba", "bi", "P", "ro", "0.7", "40", "0.5", "ccell", "0.5", "50", "0.6", "45", "0.3", "60", "0.4", "55", "0", "0.2", "(a)", "Probability", "of", "superlinear", "gain", "V.S.", "battery", "cell", "price", "λcell($/Wh)", "and", "peak", "demand", "charge", "λpeak($/MW)", "1", "0.9", "0.8", "0.7", "0.6", "0.5", "0.4", "0.3", "0.2", "0.1", "1", "80.7", "lit", "y", "ba", "bi", "P", "ro", "0.5", "peak", "12", "cell", "0.6", "10", "0.4", "16", "140.5", "20", "0.3", "18", "0", "0.2"],
+  "name": "10",
+  "page": 18,
+  "regionBoundary": {
+    "x1": 116.64,
+    "x2": 495.84,
+    "y1": 334.08,
+    "y2": 494.88
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-Figure10-1.png"
+}, {
+  "caption": "TABLE IV HALF YEAR SIMULATION RESULTS OF MICROSOFT DATA CENTER",
+  "captionBoundary": {
+    "x1": 196.31976318359375,
+    "x2": 415.9692077636719,
+    "y1": 71.71428680419922,
+    "y2": 88.91998291015625
+  },
+  "figType": "Table",
+  "imageText": ["Super", "linear", "saving", "ratio", "(q)", "2.71%", "Average", "bill", "saving", "by", "joint", "optimization", "10.72%", "Days", "having", "superlinear", "gain", "151", "Total", "days", "simulated", "183", "Microsoft", "data", "center"],
+  "name": "IV",
+  "page": 16,
+  "regionBoundary": {
+    "x1": 212.64,
+    "x2": 397.44,
+    "y1": 103.67999999999999,
+    "y2": 212.16
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-TableIV-1.png"
+}, {
+  "caption": "TABLE V ONE YEAR SIMULATION RESULTS OF UW EE & CSE BUILDING",
+  "captionBoundary": {
+    "x1": 198.83981323242188,
+    "x2": 413.6800842285156,
+    "y1": 235.0341033935547,
+    "y2": 252.23980712890625
+  },
+  "figType": "Table",
+  "imageText": ["Super", "linear", "saving", "ratio", "(q)", "3.91%", "Average", "bill", "saving", "by", "joint", "optimization", "12.35%", "Days", "having", "superlinear", "gain", "362", "Total", "days", "simulated", "365", "UW", "EE", "&CSE", "building"],
+  "name": "V",
+  "page": 16,
+  "regionBoundary": {
+    "x1": 212.64,
+    "x2": 397.44,
+    "y1": 266.88,
+    "y2": 375.36
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-TableV-1.png"
+}, {
+  "caption": "TABLE II COMPARISON BETWEEN THE SIMPLE THRESHOLD ALGORITHM AND THE OFFLINE SOLUTION WITH FULL INFORMATION",
+  "captionBoundary": {
+    "x1": 105.83999633789062,
+    "x2": 506.91827392578125,
+    "y1": 71.71428680419922,
+    "y2": 88.91998291015625
+  },
+  "figType": "Table",
+  "imageText": ["•", "min{Cr(t),", "Pmax,", "ηd[soc(t)−SoCmin]E", "ts", "},", "if", "r(t)", "≥", "0", "•", "max{Cr(t),−Pmax,", "[SoC(t)−SoCmax]E", "ηcts", "},", "if", "r(t)", "<", "0", "where", "SoC(t)", "of", "the", "battery", "state", "of", "charge", "at", "the", "beginning", "of", "time", "step", "t.", "Average", "joint", "optimization", "bill", "with", "simple", "online", "control", "($)", "1194.9", "863.6", "Average", "joint", "optimization", "bill", "with", "perfect", "insight", "($)", "1184.3", "857.2", "Average", "original", "daily", "bill", "($)", "1338.1", "985.3", "Total", "days", "simulated", "183", "365", "Data", "center", "UW", "EE", "&", "CSE"],
+  "name": "II",
+  "page": 11,
+  "regionBoundary": {
+    "x1": 81.6,
+    "x2": 418.08,
+    "y1": 103.67999999999999,
+    "y2": 326.88
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-TableII-1.png"
+}, {
+  "caption": "Fig. 7. Electricity bills for a wide peak (base load 0.5 MW, peak load 1MW, peak duration 15 minutes). Labels: In subfigures (a), (b), (c), the upper plot is power consumption; the lower plot is battery SoC curve. Blue solid line is the original load; red dotted dash line denotes demand+frequency regulation signal; green dashed line is the actual net consumption. Fig. d are normalized bills where the original bill is set to 1.",
+  "captionBoundary": {
+    "x1": 71.99990844726562,
+    "x2": 539.952392578125,
+    "y1": 617.2342529296875,
+    "y2": 661.3199462890625
+  },
+  "figType": "Figure",
+  "imageText": ["(d)", "Bills", "comparison", "Peak", "shaving", "JointOriginal", "Freq.", "regulation", "1", "0.9", "0.8", "0.7", "0.6", "0.5", "0.4", "0.3", "0.2", "0.1", "0", "b", "ill", "iz", "ed", "m", "al", "N", "or", "(c)", "Joint", "optimization", "0.8", "0.6", "0.4", "0.2", ")", "(", "%", "S", "oC", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600", "1.5", "1", "0.5", "0", ")", "M", "W", "er", "(", "P", "ow", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600", "(b)", "Peak", "shaving", "only", "0.8", "(", "%", ")", "0.2", "0.4", "0.6", "S", "oC", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600", "1", "0.8", "0.6", "0.4", ")", "M", "W", "er", "(", "P", "ow", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600", "(a)", "Frequency", "regulation", "only", "0.8", "0.6", "0.4", "0.2", ")", "(", "%", "S", "oC", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600", "1.5", "1", "0.5", "0", ")", "M", "W", "er", "(", "P", "ow", "Time", "(s)", "600", "1200", "1800", "2400", "3000", "3600"],
+  "name": "7",
+  "page": 15,
+  "regionBoundary": {
+    "x1": 75.84,
+    "x2": 528.48,
+    "y1": 148.79999999999998,
+    "y2": 603.84
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc2-Figure7-1.png"
+}]

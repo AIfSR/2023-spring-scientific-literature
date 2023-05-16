@@ -1,0 +1,541 @@
+[{
+  "caption": "Fig. 4. OCSVM filter based LSTM-AE forecasting model architecture for this study.",
+  "captionBoundary": {
+    "x1": 164.29600524902344,
+    "x2": 430.98883056640625,
+    "y1": 241.74490356445312,
+    "y2": 246.5579833984375
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "4",
+  "page": 5,
+  "regionBoundary": {
+    "x1": 125.75999999999999,
+    "x2": 469.44,
+    "y1": 55.68,
+    "y2": 231.84
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure4-1.png"
+}, {
+  "caption": "Table 5 EDRP parameters used in this study.",
+  "captionBoundary": {
+    "x1": 306.5950012207031,
+    "x2": 422.2589111328125,
+    "y1": 270.5448913574219,
+    "y2": 284.8822937011719
+  },
+  "figType": "Table",
+  "imageText": ["Value", "−", "0.1", "3", "5", "Critical", "loads", "Parameters", "Elasticity", "(peak)", "θ", "λ", "dmin", "E(m,", "n)", "=", "Pini(n)", "dini(m)", "∂d(m)", "∂P(n)", "(1)"],
+  "name": "5",
+  "page": 5,
+  "regionBoundary": {
+    "x1": 305.76,
+    "x2": 558.24,
+    "y1": 288.47999999999996,
+    "y2": 356.64
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Table5-1.png"
+}, {
+  "caption": "Table 9 Incentive scenarios with load profile and economic attributes on prosumer participation in EDRP of Fig. 3",
+  "captionBoundary": {
+    "x1": 37.587398529052734,
+    "x2": 374.97662353515625,
+    "y1": 56.30190658569336,
+    "y2": 70.69598388671875
+  },
+  "figType": "Table",
+  "imageText": ["Economic", "attributes", "Prosumer", "bill", "(₵)", "555.79", "543.21", "525.52", "489.91", "422.46", "394.28", "394.28", "394.28", "Discomfort", "cost", "(₵)", "0", "15.97", "67.34", "264.54", "966.08", "1327.7", "1327.7", "1327.7", "DR", "cost", "(₵)", "0", "12.12", "56.05", "239.33", "987.63", "2244.9", "4011.1", "6286.3", "SP", "revenue", "(₵)", "555.79", "531.16", "469.47", "250.57", "−", "565.17", "−", "1850.6", "−", "3616.8", "−", "5892.0", "Prosumer", "benefit", "(₵)", "0", "24.62", "86.31", "305.21", "1120.96", "2406.41", "4172.6", "6447.8", "Load", "profile", "attributes", "Energy", "consumption", "(kWh)", "109.587", "107.586", "104.349", "97.869", "85.821", "81.456", "81.456", "81.456", "Peak", "reduction", "(%)", "–", "12.104", "19.497", "34.295", "63.892", "80.00", "80.00", "80.00", "Energy", "reduction", "(%)", "–", "1.825", "4.779", "10.692", "21.686", "25.669", "25.669", "25.669", "Peak", "to", "valley", "distance", "(kW)", "1.557", "1.347", "1.347", "2.225", "4.0881", "4.0881", "4.0881", "4.0881", "Load", "factor", "(%)", "87.66", "89.68", "86.98", "81.58", "71.54", "67.90", "67.90", "67.90", "Incentive", "(cents/kWh)", "–", "5", "10", "20", "40", "60", "80", "100", "Base", "S1", "S2", "S3", "S4", "S5", "S6", "S7"],
+  "name": "9",
+  "page": 10,
+  "regionBoundary": {
+    "x1": 36.96,
+    "x2": 558.24,
+    "y1": 73.44,
+    "y2": 209.76
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Table9-1.png"
+}, {
+  "caption": "Fig. 19. Variation of BES power and utility grid power for case-3",
+  "captionBoundary": {
+    "x1": 326.4939880371094,
+    "x2": 537.75390625,
+    "y1": 211.75393676757812,
+    "y2": 216.5670166015625
+  },
+  "figType": "Figure",
+  "imageText": ["Utility", "Grid", "Power", "BES", "Power", ")", "ng", "(W", "ha", "ri", "er", "S", "Po", "w", "ic", "it", "D", "ef", "Time", "(Hour", "Ending)", "6000", "4000", "2000", "0", "-2000", "12", "A.M.", "6", "A.M.", "12", "P.M.", "6", "P.M.", "11", "P.M.", "-4000"],
+  "name": "19",
+  "page": 14,
+  "regionBoundary": {
+    "x1": 319.68,
+    "x2": 545.76,
+    "y1": 57.599999999999994,
+    "y2": 199.68
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure19-1.png"
+}, {
+  "caption": "Fig. 16. One-day variation of SOC for case-2",
+  "captionBoundary": {
+    "x1": 90.65190124511719,
+    "x2": 235.6390380859375,
+    "y1": 214.19192504882812,
+    "y2": 219.0050048828125
+  },
+  "figType": "Figure",
+  "imageText": ["Utility", "Grid", "Power", "BES", "Power", ")", "ng", "(W", "ha", "ri", "er", "S", "Po", "w", "ic", "it", "D", "ef", "Time", "(Hour", "Ending)", "4", "1.5", "x", "10", "1", "0.5", "0", "-0.5", "12", "A.M.", "6", "A.M.", "12", "P.M.", "6", "P.M.", "11", "P.M.", "-1"],
+  "name": "16",
+  "page": 14,
+  "regionBoundary": {
+    "x1": 50.879999999999995,
+    "x2": 276.96,
+    "y1": 246.23999999999998,
+    "y2": 398.88
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure16-1.png"
+}, {
+  "caption": "Table 1 Meta-heuristic algorithms in the literature.",
+  "captionBoundary": {
+    "x1": 306.5950012207031,
+    "x2": 442.69622802734375,
+    "y1": 348.2709045410156,
+    "y2": 362.6083068847656
+  },
+  "figType": "Table",
+  "imageText": ["2020", "Afshin", "Faramarzi", "et", "al.", "[32]", "Ocean", "Predators", "Marine", "Predator", "Algorithm", "Mirjalili", "et", "al.", "[31]", "Firefly", "Firefly", "2008", "Yang", "et", "al.", "[29]", "Cuckoo", "Search", "Cuckoo", "2009", "Yang", "and", "Deb", "[30]", "Whale", "Optimization", "Blue", "Whale", "2016", "Seyedali", "Classroom", "2011", "Rao", "et", "al.", "[28]", "Teaching", "Learning", "Based", "Optimization", "Mirjalili", "et", "al.", "[27]", "Genetic", "Algorithm", "Genetics", "1957", "AS", "Fraser", "[24–25]", "Artificial", "Bee", "Colony", "Honey", "Bee", "2005", "Karaboga", "[26]", "Grey", "Wolf", "Optimizer", "Grey", "Wolves", "2013", "Seyedali", "[23]", "Bird", "Flock", "1995", "Kennedy", "and", "Eberhart", "Particle", "Swarm", "Optimization", "Algorithms", "Inspiration", "Year", "Proposer", "References"],
+  "name": "1",
+  "page": 1,
+  "regionBoundary": {
+    "x1": 305.76,
+    "x2": 558.24,
+    "y1": 365.28,
+    "y2": 505.91999999999996
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Table1-1.png"
+}, {
+  "caption": "Fig. 5. Variation of Severity Factor Mean vs. (a) Monthly average temperature (b) SOC (c) Crate.",
+  "captionBoundary": {
+    "x1": 306.5950012207031,
+    "x2": 557.664306640625,
+    "y1": 435.0679016113281,
+    "y2": 450.6519775390625
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "5",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 316.8,
+    "x2": 546.24,
+    "y1": 245.28,
+    "y2": 425.76
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure5-1.png"
+}, {
+  "caption": "Table 6 Details of fitting parameters for li-ion BES.",
+  "captionBoundary": {
+    "x1": 306.5950012207031,
+    "x2": 442.29669189453125,
+    "y1": 56.30190658569336,
+    "y2": 70.69598388671875
+  },
+  "figType": "Table",
+  "imageText": ["Ea", "31,500", "J/mol", "α", "2896.6,", "soc", "≤", "0.45", "2694.5,", "soc", ">", "0.45", "Parameter", "Value", "Parameter", "Value"],
+  "name": "6",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 305.76,
+    "x2": 558.24,
+    "y1": 73.44,
+    "y2": 106.56
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Table6-1.png"
+}, {
+  "caption": "Table 7 One-day temperature variation considered in this study",
+  "captionBoundary": {
+    "x1": 306.5950012207031,
+    "x2": 482.9525451660156,
+    "y1": 159.93692016601562,
+    "y2": 174.33099365234375
+  },
+  "figType": "Table",
+  "imageText": ["η", "152.2", "z", "0.57", "R", "8.314", "β", "7411.2,", "soc", "≤", "0.45", "6022.2,", "soc", ">", "0.45"],
+  "name": "7",
+  "page": 6,
+  "regionBoundary": {
+    "x1": 305.76,
+    "x2": 558.24,
+    "y1": 109.44,
+    "y2": 136.79999999999998
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Table7-1.png"
+}, {
+  "caption": "Fig. 7. PV power generation via forecasted insolation obtained using OCSVMLSTM-AE",
+  "captionBoundary": {
+    "x1": 306.5950012207031,
+    "x2": 557.6470947265625,
+    "y1": 211.24392700195312,
+    "y2": 225.63800048828125
+  },
+  "figType": "Figure",
+  "imageText": ["Forecasted", "Actual", ")", "n", "(W", "at", "io", "en", "er", "V", "G", "ed", "P", "ca", "st", "Fo", "re", "Time", "(Hour", "Ending)", "10000", "8000", "6000", "4000", "2000", "12", "A.M.", "6", "A.M.", "12", "P.M.", "6", "P.M.", "11", "P.M.", "0"],
+  "name": "7",
+  "page": 9,
+  "regionBoundary": {
+    "x1": 320.15999999999997,
+    "x2": 545.76,
+    "y1": 57.599999999999994,
+    "y2": 198.72
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure7-1.png"
+}, {
+  "caption": "Fig. 14. One-day variation of SOC for case-1 12 A.M. 6 A.M. 12 P.M. 6 P.M. 11 P.M.",
+  "captionBoundary": {
+    "x1": 90.65190124511719,
+    "x2": 545.7825927734375,
+    "y1": 545.7888793945312,
+    "y2": 550.6019897460938
+  },
+  "figType": "Figure",
+  "imageText": ["Utility", "Grid", "Power", "BES", "Power", ")", "ng", "(W", "ha", "ri", "er", "S", "Po", "w", "ic", "it", "D", "ef", "Time", "(Hour", "Ending)", "4", "2", "x", "10", "1.5", "1", "0.5", "0", "-0.5", "-1", "-1.5", "-2", "C", ")", "(S", "O", "rg", "e", "C", "ha", "e", "of", "St", "at", "Time", "(Hour", "Ending)", "0.55", "0.5", "0.45", "0.4", "0.35", "0.3", "0.25", "12", "A.M.", "6", "A.M.", "12", "P.M.", "6", "P.M.", "11", "P.M.", "0.2"],
+  "name": "14",
+  "page": 13,
+  "regionBoundary": {
+    "x1": 50.879999999999995,
+    "x2": 534.24,
+    "y1": 388.8,
+    "y2": 541.4399999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure14-1.png"
+}, {
+  "caption": "Fig. 13. Minimum average degradation cost obtained after GABC tuning for variation in Colony Size (a) Summer (b) Mild, and (c) Winter for each of the case studies",
+  "captionBoundary": {
+    "x1": 37.587398529052734,
+    "x2": 557.6500244140625,
+    "y1": 359.0419006347656,
+    "y2": 363.85498046875
+  },
+  "figType": "Figure",
+  "imageText": ["0.20", "SOC", "0.55", "SOC", "0.95", "SOC", "en", "ts", "n", "C", "r)", ",", "i", "in", "te", "t", "(", "W", "C", "os", "tio", "n", "ra", "da", "D", "eg", "Colony", "Size", "(c)", "12", "10", "8", "6", "10", "30", "50", "100", "200", "300", "400", "4", "en", "ts", "0.20", "SOC", "0.55", "SOC", "0.95", "SOC", "in", "C", "ild", "),", "t", "(", "M", "C", "os", "tio", "n", "ra", "da", "D", "eg", "Colony", "Size", "(b)", "120", "100", "80", "60", "40", "10", "30", "50", "100", "200", "300", "400", "20", "0.20", "SOC", "0.55", "SOC", "0.95", "SOC", "en", "ts", "in", "C", "er", "),", "m", "m", "t", "(", "Su", "C", "os", "tio", "n", "ra", "da", "D", "eg", "Colony", "Size", "(a)", "700", "600", "500", "400", "300", "10", "30", "50", "100", "200", "300", "400", "200"],
+  "name": "13",
+  "page": 13,
+  "regionBoundary": {
+    "x1": 102.72,
+    "x2": 496.32,
+    "y1": 54.239999999999995,
+    "y2": 346.56
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure13-1.png"
+}, {
+  "caption": "Table 2 A summary showing the comparison between existing literature and this study.",
+  "captionBoundary": {
+    "x1": 37.587398529052734,
+    "x2": 290.1637268066406,
+    "y1": 610.4758911132812,
+    "y2": 624.8132934570312
+  },
+  "figType": "Table",
+  "imageText": ["[47]", "[48]", "[49]", "⨉", "⨉", "⨉", "✓", "–", "Hybrid", "EV", "PMP", "[50]", "⨉", "⨉", "⨉", "✓", "Retail", "Residential", "BES", "MILP", "[51]", "⨉", "⨉", "⨉", "✓", "Wholesale", "Commercial", "BES", "MILP", "[52]", "⨉", "⨉", "⨉", "✓", "Wholesale", "Commercial", "BES", "MINLP", "[53]", "✓", "⨉", "⨉", "✓", "Wholesale", "Commercial", "BES", "Improved", "PSO", "[55]", "⨉", "✓", "⨉", "✓", "Wholesale", "Commercial", "BES", "–", "[57]", "✓", "⨉", "⨉", "⨉", "Wholesale", "Compressed", "Air", "MILP", "[62]", "✓", "⨉", "✓", "⨉", "Wholesale", "Hydrogen/EV", "MINLP", "[65]", "✓", "✓", "✓", "✓", "Retail", "EV/Commercial", "MILP", "[66]", "✓", "⨉", "✓", "⨉", "Wholesale", "Multiple", "MILP", "Proposed", "study", "⨉", "✓", "✓", "✓", "Retail", "Residential", "BES", "GABC", "Reference", "Uncertainty", "Forecasting", "DR", "Degradation", "Analysis", "Market", "Type", "Storage", "Type", "Solver"],
+  "name": "2",
+  "page": 2,
+  "regionBoundary": {
+    "x1": 36.96,
+    "x2": 558.24,
+    "y1": 628.3199999999999,
+    "y2": 742.0799999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Table2-1.png"
+}, {
+  "caption": "Fig. 12. Minimum average degradation cost obtained after GABC tuning for variation in ‘C’ and Limit (a)-(b) Summer (c)-(d) Mild, and (e)-(f) Winter for each of the case studies",
+  "captionBoundary": {
+    "x1": 37.587398529052734,
+    "x2": 557.662109375,
+    "y1": 480.9889221191406,
+    "y2": 495.3829650878906
+  },
+  "figType": "Figure",
+  "imageText": ["0.20", "SOC", "0.55", "SOC", "0.95", "SOC", "stne", "C", "ni,)dli", "M(tso", "C", "noitadarge", "D", "Non-negative", "Constant", "'C'", "(c)", "120", "100", "80", "60", "0.5", "1", "1.5", "2", "5", "40", "0.20", "SOC", "0.55", "SOC", "0.95", "SOC", "stne", "C", "ni,)re", "m", "muS", "(tso", "C", "noi", "tad", "ar", "ge", "D", "Non-negative", "Constant", "'C'", "(a)", "700", "600", "500", "400", "300", "0.5", "1", "1.5", "2", "5", "0.20", "SOC", "0.55", "SOC", "0.95", "SOC", "en", "ts", "n", "C", "r)", ",", "i", "in", "te", "t", "(", "W", "C", "os", "tio", "n", "ra", "da", "D", "eg", "Limit", "(f)", "12", "10", "8", "6", "0", "25", "50", "75", "90", "450", "1200", "4", "en", "ts", "0.20", "SOC", "0.55", "SOC", "0.95", "SOC", "n", "C", "r)", ",", "i", "in", "te", "t", "(", "W", "C", "os", "tio", "n", "ra", "da", "D", "eg", "Non-negative", "Constant", "'C'", "(e)", "12", "10", "8", "6", "0.5", "1", "1.5", "2", "5", "4", "0.20", "SOC", "0.55", "SOC", "0.95", "SOC", "en", "ts", "in", "C", "ild", "),", "t", "(", "M", "C", "os", "tio", "n", "ra", "da", "D", "eg", "Limit", "(d)", "120", "100", "80", "60", "40", "0", "25", "50", "75", "90", "450", "1200", "0.20", "SOC", "0.55", "SOC", "0.95", "SOC", "en", "ts", "in", "C", "er", "),", "m", "m", "t", "(", "Su", "C", "os", "tio", "n", "ra", "da", "D", "eg", "Limit", "(b)", "700", "600", "500", "400", "300", "0", "25", "50", "75", "90", "450", "1200"],
+  "name": "12",
+  "page": 12,
+  "regionBoundary": {
+    "x1": 98.39999999999999,
+    "x2": 498.24,
+    "y1": 53.76,
+    "y2": 469.44
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure12-1.png"
+}, {
+  "caption": "Fig. 1. Overall workflow of the proposed approach.",
+  "captionBoundary": {
+    "x1": 213.95899963378906,
+    "x2": 381.2900390625,
+    "y1": 308.75592041015625,
+    "y2": 313.5690002441406
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "1",
+  "page": 3,
+  "regionBoundary": {
+    "x1": 68.64,
+    "x2": 525.12,
+    "y1": 55.68,
+    "y2": 299.03999999999996
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure1-1.png"
+}, {
+  "caption": "Table 13 Overall comparison of BES degradation cost and percentage savings with and without EDRP using GABC for each of the case studies",
+  "captionBoundary": {
+    "x1": 37.587398529052734,
+    "x2": 459.1187744140625,
+    "y1": 56.30190658569336,
+    "y2": 70.69598388671875
+  },
+  "figType": "Table",
+  "imageText": ["Summer", "561.56", "642.41", "823.24", "383.36", "529.45", "713.86", "311.57", "465.18", "633.99", "18.72", "12.14", "11.18", "Mild", "90.83", "104.72", "129.43", "59.63", "82.94", "109.66", "50.00", "71.52", "99.92", "16.15", "13.77", "8.88", "Winter", "9.79", "10.84", "14.06", "6.68", "9.33", "12.17", "5.29", "7.87", "10.69", "20", "15.65", "12.16", "0.95soc", "(Case-3)", "0.55soc", "(Case-2)", "0.20soc", "(Case-1)", "0.95soc", "(Case-3)", "0.55soc", "(Case-2)", "0.20soc", "(Case-1)", "0.95soc", "(Case-3)", "0.55soc", "(Case-2)", "0.20soc", "(Case-1)", "0.95soc", "(Case-3)", "0.55soc", "(Case-2)", "0.20soc", "(Case-1)", "Ref.", "[8]", "Outlier", "filter", "without", "EDRP", "Outlier", "filter", "with", "EDRP", "Savings", "(%)", "Degradation", "cost,", "₵/day"],
+  "name": "13",
+  "page": 16,
+  "regionBoundary": {
+    "x1": 36.96,
+    "x2": 558.24,
+    "y1": 73.44,
+    "y2": 154.07999999999998
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Table13-1.png"
+}, {
+  "caption": "Table 11 Impact of GABC tuning parameters on BES degradation cost with S3",
+  "captionBoundary": {
+    "x1": 37.587398529052734,
+    "x2": 253.7816619873047,
+    "y1": 488.9259033203125,
+    "y2": 504.510986328125
+  },
+  "figType": "Table",
+  "imageText": ["0.5", "316.74", "50.16", "5.49", "469.30", "72.47", "8.09", "647.09", "100.73", "10.85", "1", "314.15", "50.31", "5.40", "472.65", "73.65", "8.15", "645.30", "101.71", "11.08", "1.5", "311.57", "50.00", "5.29", "465.18", "71.52", "7.87", "633.99", "99.92", "10.69", "2", "313.22", "50.12", "5.44", "466.80", "73.88", "8.01", "636.83", "100.17", "10.71", "5", "315.48", "50.18", "5.38", "477.12", "73.00", "7.93", "654.92", "100.94", "10.71", "Limit", "0", "344.99", "51.69", "5.73", "474.54", "73.51", "8.10", "656.95", "103.69", "11.22", "0.0208NpD", "335.19", "50.56", "5.35", "474.73", "71.75", "7.82", "650.23", "100.62", "10.72", "0.0416NpD", "311.57", "50.00", "5.29", "465.18", "71.52", "7.87", "633.99", "99.92", "10.69", "0.0625NpD", "319.16", "49.69", "5.31", "461.37", "73.37", "8.04", "630.86", "95.04", "11.01", "0.075NpD", "302.38", "47.76", "5.31", "474.50", "72.80", "8.05", "628.42", "98.10", "10.53", "0.375NpD", "304.58", "49.01", "5.46", "467.34", "71.97", "8.03", "642.10", "99.20", "11.04", "NpD", "314.12", "49.46", "5.44", "480.24", "74.02", "7.85", "645.62", "99.67", "10.82", "Colony", "size", "10", "252.04", "39.84", "4.63", "474.37", "64.43", "7.09", "559.98", "92.07", "9.98", "30", "296.12", "44.87", "5.02", "440.92", "68.10", "7.64", "611.24", "98.10", "10.27", "50", "287.95", "44.73", "5.32", "464.98", "72.89", "7.47", "644.06", "98.14", "10.45", "100", "311.57", "50.00", "5.29", "465.18", "71.52", "7.87", "633.99", "99.92", "10.69", "200", "325.66", "53.59", "5.86", "494.77", "74.37", "7.95", "666.58", "102.78", "11.14", "300", "321.77", "52.30", "5.75", "473.05", "77.64", "8.33", "663.20", "99.98", "11.12", "400", "336.92", "48.98", "5.73", "471.37", "76.14", "8.07", "659.72", "104.91", "11.14", "Summer", "Mild", "Winter", "Summer", "Mild", "Winter", "Summer", "Mild", "Winter", "Non-negative", "constant", "‘C’", "(socini", "=", "0.20)", "(socini", "=", "0.55)", "(socini", "=", "0.95)", "Tuning", "parameters", "Degradation", "cost,", "₵/day"],
+  "name": "11",
+  "page": 11,
+  "regionBoundary": {
+    "x1": 36.96,
+    "x2": 558.24,
+    "y1": 506.4,
+    "y2": 732.9599999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Table11-1.png"
+}, {
+  "caption": "Table 10 GABC tuning parameters considered in this study",
+  "captionBoundary": {
+    "x1": 37.587398529052734,
+    "x2": 194.44297790527344,
+    "y1": 233.63790893554688,
+    "y2": 248.031982421875
+  },
+  "figType": "Table",
+  "imageText": ["Limit", "[0,", "0.0208NpD,", "0.0416NpD,", "0.0625NpD,", "0.075NpD,", "0.375NpD,", "NpD]", "Non-negative", "constant", "‘C’", "[0.5,", "1,", "1.5,", "2,", "5]", "Max.", "Iterations,", "T", "100", "bees", "Each", "50%", "of", "colony", "size", "Colony", "size", "[10,", "30,", "50,", "100,", "200,", "300,", "400]", "Employed/onlooker", "Parameters", "Values"],
+  "name": "10",
+  "page": 11,
+  "regionBoundary": {
+    "x1": 36.96,
+    "x2": 289.44,
+    "y1": 251.51999999999998,
+    "y2": 339.84
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Table10-1.png"
+}, {
+  "caption": "Fig. 11. (a)-(b) Discomfort cost, DR cost, SP revenue, and Prosumer Benefit vs. Incentive scenarios",
+  "captionBoundary": {
+    "x1": 138.16099548339844,
+    "x2": 457.1370849609375,
+    "y1": 204.44088745117188,
+    "y2": 209.25396728515625
+  },
+  "figType": "Figure",
+  "imageText": ["Prosumer", "Benefit", "SP", "Revenue", "en", "ts)", "it", "(C", "en", "ef", "er", "B", "su", "m", "P", "ro", "ue", "&", "ev", "en", "SP", "R", "Scenarios", "(b)", "8000", "6000", "4000", "2000", "0", "-2000", "-4000", "Base", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "-6000", "ts", ")", "C", "en", "os", "t", "(", "rt", "C", "om", "fo", "D", "isc", "1500", "1000", "500", "Base", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "0", ")", "en", "ts", "t", "(", "C", "C", "os", "D", "R", "Scenarios", "(a)", "10000", "5000", "Base", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "0"],
+  "name": "11",
+  "page": 11,
+  "regionBoundary": {
+    "x1": 102.24,
+    "x2": 496.32,
+    "y1": 53.76,
+    "y2": 192.95999999999998
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure11-1.png"
+}, {
+  "caption": "Fig. 6. Flowchart of GABC algorithm for day-ahead optimal SOC scheduling",
+  "captionBoundary": {
+    "x1": 174.67100524902344,
+    "x2": 420.5664978027344,
+    "y1": 451.22491455078125,
+    "y2": 456.0379943847656
+  },
+  "figType": "Figure",
+  "imageText": ["No", "al", "iz", "er", "Em", "pl", "oy", "ed", "B", "ee", "O", "nlooker", "Bee", "Scout", "Bee", "Yes", "In", "iti", "limit,", "C,", "lb", "and", "ub", "Initialize", "GABC", "Parameters,", "i.e.", "pop.", "Size,", "max.", "iterations,", "values", "Day-ahead", "optimal", "SOC", "t<Max.", "Iterations", "Memorize", "the", "global", "best", "solution", "and", "fitness", "Update", "solution", "with", "greedy", "selection", "using", "(30)", "Check", "for", "abandoned", "food", "sources", "and", "update", "using", "(29)", "Memorize", "the", "global", "best", "solution", "and", "fitness", "Update", "solution", "with", "greedy", "selection", "using", "(30)", "bounding", "of", "variables", "Update", "position", "of", "selected", "food", "sources", "using", "(29).", "Check", "Calculate", "probability", "using", "(31)", "Update", "solution", "with", "greedy", "selection", "using", "(30)", "Update", "position", "using", "(29).", "Check", "bounding", "of", "variables", "t=1", "Memorize", "the", "global", "best", "solution", "and", "fitness", "Evaluate", "Objective", "function", "&", "fitness", "for", "the", "entire", "population", "using", "(17)", "Generate", "Random", "Population", "[SOC1,SOC2,…...SOCn]", "Start"],
+  "name": "6",
+  "page": 8,
+  "regionBoundary": {
+    "x1": 136.32,
+    "x2": 459.35999999999996,
+    "y1": 55.68,
+    "y2": 441.12
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure6-1.png"
+}, {
+  "caption": "Table 4 Parameters of the OCSVM-LSTM-AE forecasting model.",
+  "captionBoundary": {
+    "x1": 306.5950012207031,
+    "x2": 481.9856262207031,
+    "y1": 280.4659118652344,
+    "y2": 294.8599548339844
+  },
+  "figType": "Table",
+  "imageText": ["Kernel", "‘rbf’", "(Default)", "ν", "0.01", "γ", "‘auto’", "OCSVM", "hyper-parameters", "Day-ahead", "insolation", "humidity,", "wind", "speed,", "cloud", "amount,", "solar", "insolation,", "clearness", "index", "Inputs", "Output", "Hour", "of", "the", "day,", "seasonality,", "ambient", "temperature,", "relative", "LSTM-AE", "model", "variables"],
+  "name": "4",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 305.76,
+    "x2": 558.24,
+    "y1": 298.56,
+    "y2": 413.76
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Table4-1.png"
+}, {
+  "caption": "Fig. 2. System schematic for local energy community with grid-tied PV-BESS.",
+  "captionBoundary": {
+    "x1": 172.2899932861328,
+    "x2": 423.0164489746094,
+    "y1": 251.77890014648438,
+    "y2": 256.59197998046875
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "2",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 132.96,
+    "x2": 462.24,
+    "y1": 55.68,
+    "y2": 241.92
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure2-1.png"
+}, {
+  "caption": "Table 3 System specifications for local energy community with grid-tied PV-BESS.",
+  "captionBoundary": {
+    "x1": 37.587398529052734,
+    "x2": 272.6100158691406,
+    "y1": 280.4659118652344,
+    "y2": 294.8599548339844
+  },
+  "figType": "Table",
+  "imageText": ["Connected", "Load", "10", "kW", "Number", "of", "BES", "12", "Critical", "Load", "20%", "of", "Connected", "Load", "Total", "Capacity", "25.92", "kWh", "PV", "Array", "13", "kW", "Peak", "SOC", "Range", "0.2–0.95", "BES", "Voltage", "12", "V", "Min.", "BES", "Power", "Critical", "Load", "BES", "Ah", "180", "Ah", "Max.", "BES", "Power", "Deficit", "Load", "Component", "Rating", "Component", "Rating"],
+  "name": "3",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 36.96,
+    "x2": 289.44,
+    "y1": 298.56,
+    "y2": 360.96
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Table3-1.png"
+}, {
+  "caption": "Fig. 3. Prosumer’s aggregated load demand for any one day averaged over five years.",
+  "captionBoundary": {
+    "x1": 37.587398529052734,
+    "x2": 288.6904296875,
+    "y1": 536.0938720703125,
+    "y2": 550.4312744140625
+  },
+  "figType": "Figure",
+  "imageText": ["Valley", "Off-peak", "Peak", ")", "d", "(W", "em", "an", "d", "D", "L", "oa", "Time", "(Hour", "Ending)", "5200", "5000", "4800", "4600", "4400", "4200", "4000", "3800", "12", "A.M.", "6", "A.M.", "12", "P.M.", "6", "P.M.", "11", "P.M.", "3600"],
+  "name": "3",
+  "page": 4,
+  "regionBoundary": {
+    "x1": 50.879999999999995,
+    "x2": 276.96,
+    "y1": 383.52,
+    "y2": 524.64
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure3-1.png"
+}, {
+  "caption": "Fig. 20. Fitness function Vs. Iterations (a) Summer (b) Mild (c) Winter",
+  "captionBoundary": {
+    "x1": 183.28799438476562,
+    "x2": 412.00482177734375,
+    "y1": 543.0108642578125,
+    "y2": 547.823974609375
+  },
+  "figType": "Figure",
+  "imageText": [],
+  "name": "20",
+  "page": 15,
+  "regionBoundary": {
+    "x1": 97.92,
+    "x2": 497.28,
+    "y1": 262.56,
+    "y2": 532.8
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure20-1.png"
+}, {
+  "caption": "Table 12 Seasonal-wise comparison of BES degradation cost with and without EDRP for each of the case studies and various metaheuristic methods",
+  "captionBoundary": {
+    "x1": 37.587398529052734,
+    "x2": 477.73126220703125,
+    "y1": 56.30190658569336,
+    "y2": 70.69598388671875
+  },
+  "figType": "Table",
+  "imageText": ["TLBO", "942.78", "146.82", "16.02", "800.0", "124.4", "13.5", "714.80", "110.9", "12.07", "72", "IGWO", "895.23", "139.34", "15.27", "755.9", "120.8", "13.0", "702.51", "109.1", "11.84", "42", "PSO_IWA", "870.55", "133.89", "15.01", "715.3", "110.3", "12.5", "664.59", "102.8", "11.32", "31", "GABC", "823.24", "129.43", "14.06", "713.8", "109.6", "12.1", "633.99", "99.92", "10.69", "36", "Case-3", "0.95soc", "TLBO", "770.47", "120.29", "13.17", "627.6", "97.89", "10.7", "539.54", "83.98", "9.16", "72", "IGWO", "712.54", "113.62", "12.14", "604.3", "93.64", "10.2", "525.93", "82.12", "8.93", "42", "PSO_IWA", "661.62", "109.04", "12.11", "534.0", "86.0", "9.51", "500.70", "78.35", "8.18", "31", "GABC", "642.41", "104.72", "10.84", "529.4", "82.94", "9.33", "465.18", "71.52", "7.87", "36", "Case-2", "0.55soc", "TLBO", "699.28", "109.72", "12.09", "476.4", "74.65", "8.21", "387.106", "60.56", "6.64", "72", "IGWO", "646.20", "101.44", "11.22", "450.4", "69.93", "7.70", "374.08", "58.56", "6.45", "42", "PSO_IWA", "585.42", "92.98", "9.82", "404.9", "64.01", "6.93", "341.28", "54.30", "5.92", "31", "GABC", "561.56", "90.83", "9.79", "383.3", "59.63", "6.68", "311.57", "50.00", "5.29", "36", "Case-1", "0.20soc", "Cases", "Methods", "Summer", "Mild", "Winter", "Summer", "Mild", "Winter", "Summer", "Mild", "Winter", "Time", "(s)", "Outlier", "filter", "with", "EDRP", "(C", "=", "1.5,", "limit", "=", "50,", "colony", "size", "=", "100)", "Outlier", "filter", "without", "EDRP", "(C", "=", "1,", "limit", "=", "50,", "colony", "size", "=", "100)", "Ref.", "[8]", "(C", "=", "1,", "limit", "=", "50,", "colony", "size", "=", "100)", "Degradation", "cost,", "₵/day"],
+  "name": "12",
+  "page": 15,
+  "regionBoundary": {
+    "x1": 36.96,
+    "x2": 558.24,
+    "y1": 73.44,
+    "y2": 230.88
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Table12-1.png"
+}, {
+  "caption": "Fig. 21. Cost comparison with and without EDRP for summer, mild, and winter for each of the case studies",
+  "captionBoundary": {
+    "x1": 37.587398529052734,
+    "x2": 288.6567687988281,
+    "y1": 722.2171020507812,
+    "y2": 736.6111450195312
+  },
+  "figType": "Figure",
+  "imageText": ["Ref.[8]", "Outlier", "Filter", "W/o", "EDRP", "Outlier", "Filter", "With", "EDRP", "te", "r", "W", "in", "10", "15", "0.20", "SOC", "0.55", "SOC", "0.95", "SOC", "0", "5", "C", "en", "ts", "M", "ild", "t,", "in", "C", "os", "tio", "n", "ra", "da", "D", "eg", "200", "100", "0.20", "SOC", "0.55", "SOC", "0.95", "SOC", "0", "m", "er", "Su", "m", "1000", "500", "0.20", "SOC", "0.55", "SOC", "0.95", "SOC", "0"],
+  "name": "21",
+  "page": 15,
+  "regionBoundary": {
+    "x1": 50.879999999999995,
+    "x2": 277.44,
+    "y1": 573.6,
+    "y2": 709.4399999999999
+  },
+  "renderDpi": 150,
+  "renderURL": "./doc3-Figure21-1.png"
+}]
